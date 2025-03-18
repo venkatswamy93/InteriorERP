@@ -2,6 +2,7 @@
   "name": "erpapp",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://github.com/venkatswamy93/InteriorERP.git",
   "dependencies": {
     "@coreui/icons": "^3.0.1",
     "@coreui/icons-react": "^2.3.0",
